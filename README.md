@@ -23,48 +23,41 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 - 🌈 My favourite color is <span style="color: purple">Purple</span>
 
 
-# ⚡ Technologies
+# ⚡ Technologies & tools
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-purple?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-purple?style=for-the-badge&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-purple?style=for-the-badge&logo=Python)
-![Java](https://img.shields.io/badge/-java-purple?style=for-the-badge&logo=java)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Distro-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=6E5A93)
+![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6E5A93)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-purple?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-purple?style=for-the-badge&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-purple?style=for-the-badge&logo=elasticsearch)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-purple?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-purple?style=for-the-badge&logo=mysql)
+# GitHub Stats
+<a href="https://github.com/nicht/nicht">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicht&hide=TeX&layout=compact&theme=nightowl" />
+</a>
+<a href="https://github.com/nicht/nicht">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicht&show_icons=true&theme=nightowl&include_all_commits=true" alt="Rodolfo's GitHub Stats" />
+</a>
 
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-purple?style=for-the-badge&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-purple?style=for-the-badge&logo=amazon-aws)
-
-![Git](https://img.shields.io/badge/-Git-purple?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-purple?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-purple?style=for-the-badge&logo=gitlab)
-
-![Docker](https://img.shields.io/badge/-Docker-purple?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-purple?style=for-the-badge&logo=kubernetes)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicht&hide=TeX&layout=compact&theme=nightowl)  
+<a href="https://github.com/neoborn-io/neoborn-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neoborn-io&repo=neoborn-api&theme=nightowl" />
+</a>
+<a href="https://github.com/neoborn-io/neoborn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neoborn-io&repo=neoborn&theme=nightowl" />
+</a>
 
 # Statistics for nerds
-
-[![nicht's github stats](https://github-readme-stats.vercel.app/api?username=nicht&show_icons=true&theme=nightowl&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com//NeoAssist/NeoAcademy/pull/41) in [NeoAssist/NeoAcademy](https://github.com//NeoAssist/NeoAcademy)
-2. 🗣 Commented on [#632](https://github.com//mongomock/mongomock/issues/632) in [mongomock/mongomock](https://github.com//mongomock/mongomock)
-3. 💪 Opened PR [#5859](https://github.com//RasaHQ/rasa/pull/5859) in [RasaHQ/rasa](https://github.com//RasaHQ/rasa)
-4. 🎉 Merged PR [#3](https://github.com//nicht/playground/pull/3) in [nicht/playground](https://github.com//nicht/playground)
-5. 💪 Opened PR [#3](https://github.com//nicht/playground/pull/3) in [nicht/playground](https://github.com//nicht/playground)
-<!--END_SECTION:activity-->
-
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
