@@ -42,10 +42,10 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 
 # GitHub Stats
 <a href="https://github.com/nicht/nicht">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicht&show_icons=true&theme=nightowl&include_all_commits=true" alt="Rodolfo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicht&hide=TeX&layout=compact&theme=nightowl" />
 </a>
 <a href="https://github.com/nicht/nicht">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicht&hide=TeX&layout=compact&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicht&show_icons=true&theme=nightowl&include_all_commits=true" alt="Rodolfo's GitHub Stats" />
 </a>
 
 <a href="https://github.com/neoborn-io/neoborn-api">
