@@ -20,8 +20,6 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 - ⚡ Fun fact: I like to break stuff. 
 - 🌎 I live in Bauru, São Paulo.
 - 🇧🇷 I speak 🇧🇷, 🇬🇧 and 🇩🇪.
-- 🌈 My favourite color is <span style="color: purple">Purple</span>
-
 
 # ⚡ Technologies & tools
 
