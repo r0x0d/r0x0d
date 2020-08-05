@@ -7,7 +7,7 @@
 
 Hey! How are you, people?
 
-My name is Rodolfo Olivieri and I work as a Software Developer, currently I am part of the @NeoAssist development team in Bauru - São Paulo.
+My name is Rodolfo Olivieri and I work as a Software Developer, currently I am part of the [@NeoAssist](https://github.com/NeoAssist) development team in Bauru - São Paulo.
 
 - 🔭 I’m currently working with **Python** and **Node.js**.
 - 🌱 I’m currently learning anything that is cool enough.
@@ -16,7 +16,7 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
     * [Neoborn](https://github.com/neoborn-io) - A hardcore turn-based game;
     * [Merlin](https://github.com/nicht/merlin) - A command-line helper;
 - 💬 Ask me about anything that interests you! I love to chat!
-- 📫 How to reach me: Use any of the [badges](#hi-there-) above
+- 📫 How to reach me: Use any of the [badges](#hi-there--im-nicht) above
 - ⚡ Fun fact: I like to break stuff. 
 - 🌎 I live in Bauru, São Paulo.
 - 🇧🇷 I speak 🇧🇷, 🇬🇧 and 🇩🇪.
