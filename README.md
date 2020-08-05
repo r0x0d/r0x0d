@@ -57,6 +57,7 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
