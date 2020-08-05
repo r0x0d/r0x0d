@@ -20,6 +20,7 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 - 🇧🇷 I speak Portuguese, English and German.
 - 🌈 My favourite color is <span style="color: purple">Purple</span>
 
+
 # ⚡ Technologies
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
@@ -57,3 +58,6 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
