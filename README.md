@@ -11,47 +11,47 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 
 - 🔭 I’m currently working with **Python** and **Node.js**.
 - 🌱 I’m currently learning anything that is cool enough.
-- 👯 I’m looking to collaborate on some open source python projects.
-- 🤔 I’m looking for help with [neoborn](https://github.com/neoborn-io) and [merlin](https://github.com/nicht/merlin).
-- 💬 Ask me about anything that interests you!
+- 👯 I’m looking to collaborate on some open source projects.
+- 🤔 I’m looking for help with:
+    * [Neoborn](https://github.com/neoborn-io) - A hardcore turn-based game;
+    * [Merlin](https://github.com/nicht/merlin) - A command-line helper;
+- 💬 Ask me about anything that interests you! I love to chat!
 - 📫 How to reach me: Use any of the [badges](#hi-there-) above
-- ⚡ Fun fact: I like to break stuff. Sometimes i like to recreate them.
+- ⚡ Fun fact: I like to break stuff. 
 - 🌎 I live in Bauru, São Paulo.
-- 🇧🇷 I speak Portuguese, English and German.
+- 🇧🇷 I speak 🇧🇷, 🇬🇧 and 🇩🇪.
 - 🌈 My favourite color is <span style="color: purple">Purple</span>
 
 
 # ⚡ Technologies
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-purple?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-purple?style=for-the-badge&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-purple?style=for-the-badge&logo=Python)
+![Java](https://img.shields.io/badge/-java-purple?style=for-the-badge&logo=java)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-purple?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-purple?style=for-the-badge&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-purple?style=for-the-badge&logo=elasticsearch)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-purple?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-purple?style=for-the-badge&logo=mysql)
 
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-purple?style=for-the-badge&logo=digitalocean)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-purple?style=for-the-badge&logo=amazon-aws)
 
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-purple?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-purple?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-purple?style=for-the-badge&logo=gitlab)
 
+![Docker](https://img.shields.io/badge/-Docker-purple?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-purple?style=for-the-badge&logo=kubernetes)
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicht&hide=TeX&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicht&hide=TeX&layout=compact&theme=nightowl)  
 
 # Statistics for nerds
 
-[![nicht's github stats](https://github-readme-stats.vercel.app/api?username=nicht&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![nicht's github stats](https://github-readme-stats.vercel.app/api?username=nicht&show_icons=true&theme=nightowl&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **:zap: Recent Activity:**
