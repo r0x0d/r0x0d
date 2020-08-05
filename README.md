@@ -57,6 +57,12 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#41](https://github.com//NeoAssist/NeoAcademy/pull/41) in [NeoAssist/NeoAcademy](https://github.com//NeoAssist/NeoAcademy)
+2. 🗣 Commented on [#632](https://github.com//mongomock/mongomock/issues/632) in [mongomock/mongomock](https://github.com//mongomock/mongomock)
+3. 💪 Opened PR [#5859](https://github.com//RasaHQ/rasa/pull/5859) in [RasaHQ/rasa](https://github.com//RasaHQ/rasa)
+4. 🎉 Merged PR [#3](https://github.com//nicht/playground/pull/3) in [nicht/playground](https://github.com//nicht/playground)
+5. 💪 Opened PR [#3](https://github.com//nicht/playground/pull/3) in [nicht/playground](https://github.com//nicht/playground)
+<!--END_SECTION:activity-->
 
 
 <!--START_SECTION:waka-->
