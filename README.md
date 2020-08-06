@@ -59,11 +59,11 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-3.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.9%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 288 Contributions in year 2020
+> 🏆 290 Contributions in year 2020
  > 
 > 📦 Used 10.3 kB in GitHub's Storage 
  > 
@@ -77,8 +77,8 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 
 ```text
 🌞 Morning    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
-🌆 Daytime    44 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.47% 
-🌃 Evening    97 commits     ██████████░░░░░░░░░░░░░░░   42.92% 
+🌆 Daytime    46 commits     █████░░░░░░░░░░░░░░░░░░░░   20.35% 
+🌃 Evening    95 commits     ██████████░░░░░░░░░░░░░░░   42.04% 
 🌙 Night      56 commits     ██████░░░░░░░░░░░░░░░░░░░   24.78%
 
 ```
@@ -86,9 +86,9 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 
 ```text
 Monday       39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
-Tuesday      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.29% 
+Tuesday      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.41% 
 Wednesday    70 commits     ███████░░░░░░░░░░░░░░░░░░   30.97% 
-Thursday     46 commits     █████░░░░░░░░░░░░░░░░░░░░   20.35% 
+Thursday     48 commits     █████░░░░░░░░░░░░░░░░░░░░   21.24% 
 Friday       24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
 Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.41% 
 Sunday       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
