@@ -87,9 +87,9 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 ```text
 Monday       39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
 Tuesday      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
-Wednesday    16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
+Wednesday    14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
 Thursday     60 commits     ██████░░░░░░░░░░░░░░░░░░░   26.55% 
-Friday       70 commits     ███████░░░░░░░░░░░░░░░░░░   30.97% 
+Friday       72 commits     ████████░░░░░░░░░░░░░░░░░   31.86% 
 Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.41% 
 Sunday       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
 
