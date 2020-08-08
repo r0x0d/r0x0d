@@ -63,9 +63,9 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 
 **🐱 My GitHub Data** 
 
-> 🏆 352 Contributions in year 2020
+> 🏆 360 Contributions in year 2020
  > 
-> 📦 Used 10.3 kB in GitHub's Storage 
+> 📦 Used 10.4 kB in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -88,9 +88,9 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 Monday       39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
 Tuesday      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
 Wednesday    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
-Thursday     56 commits     ██████░░░░░░░░░░░░░░░░░░░   24.78% 
+Thursday     54 commits     ██████░░░░░░░░░░░░░░░░░░░   23.89% 
 Friday       72 commits     ████████░░░░░░░░░░░░░░░░░   31.86% 
-Saturday     27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
+Saturday     29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
 Sunday       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
 
 ```
