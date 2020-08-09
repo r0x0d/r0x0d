@@ -59,7 +59,7 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.9%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-3.1%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,9 +88,9 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 Monday       39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
 Tuesday      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
 Wednesday    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
-Thursday     18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.96% 
+Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
 Friday       72 commits     ████████░░░░░░░░░░░░░░░░░   31.86% 
-Saturday     65 commits     ███████░░░░░░░░░░░░░░░░░░   28.76% 
+Saturday     67 commits     ███████░░░░░░░░░░░░░░░░░░   29.65% 
 Sunday       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
 
 ```
