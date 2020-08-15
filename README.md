@@ -65,7 +65,7 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 
 > 🏆 468 Contributions in year 2020
  > 
-> 📦 Used 17.6 kB in GitHub's Storage 
+> 📦 Used 17.5 kB in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
