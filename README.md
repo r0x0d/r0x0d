@@ -59,19 +59,19 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-3.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 472 Contributions in 2020
+> 🏆 472 Contributions in the year 2020
  > 
-> 📦 Used 17.6 kB in GitHub's Storage 
+> 📦 17.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 22 Public repositories
  > 
-> 🔑 1 Owned Private Repository 
+> 🔑 1 Private repository 
  > 
 **I'm a Night 🦉** 
 
@@ -82,7 +82,7 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 🌙 Night      44 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.88%
 
 ```
-📅 **I'm Most Productive on Mondays** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       61 commits     ██████░░░░░░░░░░░░░░░░░░░   26.18% 
@@ -96,19 +96,19 @@ Sunday       55 commits     ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/Sao_Paulo
+⌚︎ Time zone: America/Sao_Paulo
 
-💬 Languages: 
+💬 Programming Languages: 
 Python                   10 hrs 47 mins      ██████████████████████░░░   90.69% 
 YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.02% 
 TOML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64% 
 Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
 Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
 
-🔥 Editors: 
+🔥 Code Editors: 
 PyCharm                  11 hrs 54 mins      █████████████████████████   100.0% 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -118,7 +118,7 @@ neoborn-api              3 hrs 45 mins       ████████░░░�
 Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56% 
 nicht                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Linux                    11 hrs 54 mins      █████████████████████████   100.0%
 
 ```
