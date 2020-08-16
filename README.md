@@ -63,7 +63,7 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 
 **🐱 My GitHub Data** 
 
-> 🏆 472 Contributions in year 2020
+> 🏆 472 Contributions in 2020
  > 
 > 📦 Used 17.6 kB in GitHub's Storage 
  > 
@@ -73,7 +73,7 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
  > 
 > 🔑 1 Owned Private Repository 
  > 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
@@ -96,7 +96,7 @@ Sunday       55 commits     ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Timezone: America/Sao_Paulo
@@ -123,7 +123,7 @@ Linux                    11 hrs 54 mins      ███████████�
 
 ```
 
-**I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
