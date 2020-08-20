@@ -59,19 +59,19 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 472 Contributions in the year 2020
+> 🏆 472 Contributions in the Year 2020
  > 
 > 📦 17.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 22 Public repositories
+> 📜 22 Public Repositories
  > 
-> 🔑 1 Private repository 
+> 🔑 1 Private Repository 
  > 
 **I'm a Night 🦉** 
 
@@ -96,10 +96,10 @@ Sunday       55 commits     ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: America/Sao_Paulo
+⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
 Python                   3 hrs 38 mins       ██████████████████████░░░   91.17% 
@@ -107,7 +107,7 @@ YAML                     14 mins             █░░░░░░░░░░�
 TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
-🔥 Code Editors: 
+🔥 Editors: 
 PyCharm                  3 hrs 59 mins       █████████████████████████   100.0% 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
