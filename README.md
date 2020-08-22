@@ -59,13 +59,13 @@ My name is Rodolfo Olivieri and I work as a Software Developer, currently I am p
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 472 Contributions in the Year 2020
  > 
-> 📦 17.6 kB Used in Github's Storage 
+> 📦 17.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
