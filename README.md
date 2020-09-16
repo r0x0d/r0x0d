@@ -1,7 +1,6 @@
 # Hi there 👋 I'm [nicht](https://nicht.rocks)
 [![Gmail Badge](https://img.shields.io/badge/-rodolfo.olivieri3@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rodolfo.olivieri3@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Rodolfo%20Olivieri-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfoolivieri/ "Connect on LinkedIn")
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq)
 [![Dev.to Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?style=for-the-badge&logo=dev-to&logoColor=white)](https://dev.to/nicht)
 
 
