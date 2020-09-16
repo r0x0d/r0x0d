@@ -7,7 +7,7 @@
 
 Hey! How are you, people?
 
-My name is Rodolfo Olivieri and I work as a Software Developer, currently I am part of the [@NeoAssist](https://github.com/NeoAssist) development team in Bauru - São Paulo.
+My name is Rodolfo Olivieri and I work as a Data Engineer. Currently I am part of the [@auxr](https://axur.com) machine learning team.
 
 - 🔭 I’m currently working with **Python** and **Node.js**.
 - 🌱 I’m currently learning anything that is cool enough.
