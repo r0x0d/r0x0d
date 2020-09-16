@@ -12,7 +12,7 @@ My name is Rodolfo Olivieri and I work as a Data Engineer. Currently I am part o
 - 🌱 I’m currently learning anything that is cool enough.
 - 👯 I’m looking to collaborate on some open source projects.
 - 🤔 I’m looking for help with:
-    * [Neoborn](https://github.com/neoborn-io) - A hardcore turn-based game;
+    * [Neoborn](https://github.com/NeobornHQ) - A hardcore turn-based game;
     * [Merlin](https://github.com/nicht/merlin) - A command-line helper;
 - 💬 Ask me about anything that interests you! I love to chat!
 - 📫 How to reach me: Use any of the [badges](#hi-there--im-nicht) above
@@ -47,11 +47,11 @@ My name is Rodolfo Olivieri and I work as a Data Engineer. Currently I am part o
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicht&show_icons=true&theme=nightowl&include_all_commits=true" alt="Rodolfo's GitHub Stats" />
 </a>
 
-<a href="https://github.com/neoborn-io/neoborn-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neoborn-io&repo=neoborn-api&theme=nightowl" />
+<a href="https://github.com/NeobornHQ/neoborn-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeobornHQ&repo=neoborn-api&theme=nightowl" />
 </a>
-<a href="https://github.com/neoborn-io/neoborn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neoborn-io&repo=neoborn&theme=nightowl" />
+<a href="https://github.com/NeobornHQ/neoborn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NeobornHQ&repo=neoborn&theme=nightowl" />
 </a>
 
 # Statistics for nerds
