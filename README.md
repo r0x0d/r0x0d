@@ -119,9 +119,9 @@ No Activity Tracked This Week
 ```text
 Python                   6 repos             ████████████░░░░░░░░░░░░░   50.0% 
 TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Emacs Lisp               1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Makefile                 1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-JavaScript               1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+Emacs Lisp               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Makefile                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
