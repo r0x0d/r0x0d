@@ -64,7 +64,7 @@ My name is Rodolfo Olivieri and I work as a Data Engineer. Currently I am part o
 
 > 🏆 610 Contributions in the Year 2020
  > 
-> 📦 34.1 kB Used in Github's Storage 
+> 📦 34.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
