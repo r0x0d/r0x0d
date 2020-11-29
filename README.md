@@ -62,7 +62,7 @@ My name is Rodolfo Olivieri and I work as a Data Engineer. Currently I am part o
 
 **🐱 My Github Data** 
 
-> 📦 27.0 kB Used in Github's Storage 
+> 📦 26.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
