@@ -68,9 +68,9 @@ My name is Rodolfo Olivieri and I work as a Data Engineer. Currently I am part o
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories
+> 📜 18 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+18 Private Repository 
  > 
 **I'm a Night 🦉** 
 
