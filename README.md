@@ -32,5 +32,5 @@ My name is Rodolfo Olivieri and I work as a Data Engineer. Currently I am part o
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0x0d&hide=TeX&layout=compact&theme=nightowl" />
 </a>
 <a href="https://github.com/r0x0d/r0x0d">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=r0x0d&show_icons=true&theme=nightowl&include_all_commits=true" alt="r0x0d's GitHub Stats" />
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=r0x0d&show_icons=true&theme=nightowl&include_all_commits=true" alt="r0x0d's GitHub Stats" />
 </a>
