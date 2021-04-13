@@ -1,36 +1,24 @@
-# Hi there 👋 I'm [nicht](https://nicht.rocks)
-[![Gmail Badge](https://img.shields.io/badge/-rodolfo.olivieri3@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rodolfo.olivieri3@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Rodolfo%20Olivieri-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfoolivieri/ "Connect on LinkedIn")
-[![Dev.to Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?style=for-the-badge&logo=dev-to&logoColor=white)](https://dev.to/nicht)
-
+# Hi there 👋
 
 Hey! How are you, people?
 
-My name is Rodolfo Olivieri and I work as a Data Engineer. Currently I am part of the [@auxr](https://axur.com) machine learning team.
+My name is Rodolfo Olivieri and I work as a Data Engineer. Currently I am part of the [Axur - Machine Learning](https://github.com/axur-ml) team.
 
-- 🔭 I’m currently working with **Python** and **Node.js**.
+- 🔭 I’m currently working with **Python** and all kinds of **Pipelines**.
 - 🌱 I’m currently learning anything that is cool enough.
-- 👯 I’m looking to collaborate on some open source projects.
-- 🤔 I’m looking for help with:
-    * [Neoborn](https://github.com/NeobornHQ) - A hardcore turn-based game;
-    * [Merlin](https://github.com/nicht/merlin) - A command-line helper;
-- 💬 Ask me about anything that interests you! I love to chat!
-- 📫 How to reach me: Use any of the [badges](#hi-there--im-nicht) above
-- ⚡ Fun fact: I like to break stuff. 
-- 🌎 I live in Bauru, São Paulo.
-- 🇧🇷 I speak 🇧🇷, 🇬🇧 and 🇩🇪.
+- 📫 Drop me a message at [my twitter](https://twitter.com/r0x0d)
+- ⚡ Fun fact: I really like to break stuff. 
+- 🌎 I speak 🇧🇷, 🇬🇧 and 🇩🇪 (little bit).
+- 🤔 My nicknames are: Rô, Rod or r0x0d
 
 # ⚡ Technologies & tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6E5A93)
 ![](https://img.shields.io/badge/Distro-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=6E5A93)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=6E5A93)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6E5A93)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6E5A93)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6E5A93)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6E5A93)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6E5A93)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6E5A93)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6E5A93)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6E5A93)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6E5A93)
@@ -40,11 +28,11 @@ My name is Rodolfo Olivieri and I work as a Data Engineer. Currently I am part o
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6E5A93)
 
 # GitHub Stats
-<a href="https://github.com/nicht/nicht">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicht&hide=TeX&layout=compact&theme=nightowl" />
+<a href="https://github.com/r0x0d/r0x0d">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0x0d&hide=TeX&layout=compact&theme=nightowl" />
 </a>
-<a href="https://github.com/nicht/nicht">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicht&show_icons=true&theme=nightowl&include_all_commits=true" alt="Rodolfo's GitHub Stats" />
+<a href="https://github.com/r0x0d/r0x0d">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=r0x0d&show_icons=true&theme=nightowl&include_all_commits=true" alt="Rodolfo's GitHub Stats" />
 </a>
 
 <a href="https://github.com/NeobornHQ/neoborn-api">
@@ -128,7 +116,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/nicht/nicht/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/r0x0d/r0x0d/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
