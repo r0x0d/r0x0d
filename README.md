@@ -9,7 +9,6 @@ My name is Rodolfo Olivieri and I work as a Data Engineer. Currently I am part o
 - 📫 Drop me a message at [my twitter](https://twitter.com/r0x0d)
 - ⚡ Fun fact: I really like to break stuff. 
 - 🌎 I speak 🇧🇷, 🇬🇧 and 🇩🇪 (little bit).
-- 🤔 My nicknames are: Rô, Rod or r0x0d
 - ✨ Usually blog at [my personal blog](https://nicht.rocks) or at the [Axur Engineering Blog](https://engineering.axur.acom);
 
 # ⚡ Technologies & tools
