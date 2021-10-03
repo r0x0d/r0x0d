@@ -2,9 +2,9 @@
 
 Hey! How are you, people?
 
-My name is Rodolfo Olivieri and I work as a Data Engineer. Currently I am part of the [Machine Learning](https://github.com/axur-ml) team at [@axur](https://axur.com/en).
+My name is Rodolfo Olivieri and I work as a Software Engineer. Currently I am part of the [OS and Application Modernization Group (OAMG)](https://github.com/oamg) team at [@redhat](https://redhat.com).
  
-- 🔭 I’m currently working with **Python** and all kinds of **Pipelines**.
+- 🔭 I’m currently working with **Python** and alot of fun stuff.
 - 🌱 I’m currently learning anything that is cool enough.
 - 📫 Drop me a message at [my twitter](https://twitter.com/r0x0d)
 - ⚡ Fun fact: I really like to break stuff. 
