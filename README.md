@@ -2,7 +2,7 @@
 
 Hey! How are you, people?
 
-My name is Rodolfo Olivieri and I work as a Software Engineer. Currently I am part of the [OS and Application Modernization Group (OAMG)](https://github.com/oamg) team at [@redhat](https://redhat.com).
+My name is Rodolfo Olivieri and I work as a Software Engineer. Currently I am part of the [OS and Application Modernization Group (OAMG)](https://github.com/oamg) team at [@RedHatOfficial](https://redhat.com).
  
 - 🔭 I’m currently working with **Python** and alot of fun stuff.
 - 🌱 I’m currently learning anything that is cool enough.
