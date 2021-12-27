@@ -11,6 +11,10 @@ My name is Rodolfo Olivieri and I work as a Software Engineer. Currently I am pa
 - 🌎 I speak 🇧🇷, 🇬🇧 and 🇩🇪 (little bit).
 - ✨ Usually blog at [my personal blog](https://r0x0d.github.io);
 
+# Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # ⚡ Technologies & tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6E5A93)
