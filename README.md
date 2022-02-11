@@ -12,6 +12,7 @@ My name is Rodolfo Olivieri and I work as a Software Engineer. Currently I am pa
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An happy easter egg :&rpar;](https://r0x0d.github.io/an-happy-easter-egg.html)
 - [Learning the basics of programming](https://r0x0d.github.io/learning-basics-of-programming.html)
 - [Working with Vagrant UEFI boxes &lpar;LibVirt&rpar;](https://r0x0d.github.io/vagrant-uefi-boxes.html)
 <!-- BLOG-POST-LIST:END -->
