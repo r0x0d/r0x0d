@@ -13,4 +13,4 @@ jobs:
       - name: Pull in my blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://r0x0d.github.io/feed.xml"
+          feed_list: "https://r0x0d.github.io/blog/feed.xml"
