@@ -10,7 +10,6 @@ My name is Rodolfo Olivieri and I work as a Software Engineer. Currently I am pa
 - 🌎 I speak 🇧🇷, 🇬🇧 and 🇩🇪 (little bit).
 - ✨ Usually blog at [my personal blog](https://r0x0d.github.io);
 
-<p float="left">
 # Latest blog posts
 <!-- BLOG:START -->
 - [An happy easter egg :&rpar;](https://r0x0d.github.io/blog/an-happy-easter-egg.html)
@@ -21,4 +20,4 @@ My name is Rodolfo Olivieri and I work as a Software Engineer. Currently I am pa
  # Latest zettels
  <!-- ZETTELKASTEN:START -->
  <!-- ZETTELKASTEN:END -->
-<p>
+
