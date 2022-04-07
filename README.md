@@ -19,7 +19,12 @@ My name is Rodolfo Olivieri and I work as a Software Engineer. Currently I am pa
  
 # Latest zettels
  <!-- ZETTELKASTEN:START -->
- <!-- ZETTELKASTEN:END -->
+- [Using vimdiff](https://r0x0d.github.io/zettelkasten/20220406093907.html)
+- [Join paths with splat](https://r0x0d.github.io/zettelkasten/20220406093143.html)
+- [Signal handling is weird in python2](https://r0x0d.github.io/zettelkasten/20220405114113.html)
+- [Using alternatives](https://r0x0d.github.io/zettelkasten/20220404163240.html)
+- [Black is broken because of internal dependencies](https://r0x0d.github.io/zettelkasten/20220404114543.html)
+<!-- ZETTELKASTEN:END -->
  
  # Latest talks
  <!-- TALKS:START -->
