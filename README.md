@@ -10,9 +10,15 @@ My name is Rodolfo Olivieri and I work as a Software Engineer. Currently I am pa
 - 🌎 I speak 🇧🇷, 🇬🇧 and 🇩🇪 (little bit).
 - ✨ Usually blog at [my personal blog](https://r0x0d.github.io);
 
+<p float="left">
 # Latest blog posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG:START -->
 - [An happy easter egg :&rpar;](https://r0x0d.github.io/blog/an-happy-easter-egg.html)
 - [Learning the basics of programming](https://r0x0d.github.io/blog/learning-basics-of-programming.html)
 - [Working with Vagrant UEFI boxes &lpar;LibVirt&rpar;](https://r0x0d.github.io/blog/vagrant-uefi-boxes.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:END -->
+ 
+ # Latest zettels
+ <!-- ZETTELKASTEN:START -->
+ <!-- ZETTELKASTEN:END -->
+<p>
