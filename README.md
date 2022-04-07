@@ -23,4 +23,5 @@ My name is Rodolfo Olivieri and I work as a Software Engineer. Currently I am pa
  
  # Latest talks
  <!-- TALKS:START -->
- <!-- TALKS:END -->
+- [Automate the boring stuff](https://r0x0d.github.io/talks/slides/automate-the-boring-stuff/)
+<!-- TALKS:END -->
