@@ -16,19 +16,7 @@ jobs:
         with:
           comment_tag_name: "BLOG"
           feed_list: "https://r0x0d.github.io/blog/feed.xml"
-
-  update-readme-with-zettels:
-    name: Update r0x0d repo's README with latest zettelkasten posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in my blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "ZETTELKASTEN"
-          feed_list: "https://r0x0d.github.io/zettelkasten/feed/zettelkastens.xml"
-
+      
   update-readme-with-talks:
     name: Update r0x0d repo's README with latest talks
     runs-on: ubuntu-latest
